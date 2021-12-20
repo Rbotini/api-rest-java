@@ -1,0 +1,5 @@
+package com.botidev.apirest.repository;
+
+public interface ProdutoRepository {
+
+}
