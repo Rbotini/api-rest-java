@@ -1,0 +1,5 @@
+package com.botidev.apirest.models;
+
+public class Produto {
+
+}

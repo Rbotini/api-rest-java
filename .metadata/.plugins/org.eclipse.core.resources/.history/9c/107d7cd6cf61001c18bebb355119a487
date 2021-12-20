@@ -1,0 +1,10 @@
+
+spring.jpa.properties.hibernate.jdbc.non_contextual_creation=true
+
+## PostgreSQL
+spring.datasource.url=jdbc:postgresql://localhost:5432/produtos-apirest
+spring.datasource.username=postgres
+spring.datasource.password=admin
+
+#drop n create table again, good for testing, comment this in production
+spring.jpa.hibernate.ddl-auto=create
