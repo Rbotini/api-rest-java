@@ -2,4 +2,4 @@
 
 
 <p>Neste Projeto Vamos Criar Uma entidade Produtos e realizar Um Crud Para Criar,Alterar,Buscar e Remover</p>
--Feito Deploy No heroku: https://api-teste-produto.herokuapp.com/swagger-ui/index.html#/
+API REST de produtos com Swagger-ui. Disponível em:  https://api-teste-produto.herokuapp.com/swagger-ui/index.html#/
